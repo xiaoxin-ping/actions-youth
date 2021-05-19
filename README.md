@@ -33,10 +33,10 @@ https:\/\/ios\.baertt\.com\/v5\/user\/app_stay\.json url script-request-body htt
 
 [task_local]
 # 中青看点极速版
-0 0/14 5-14 * * * https://raw.githubusercontent.com/akuticlouds/actions-youth/main/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true
+0 0/14 5-14 * * * https://raw.githubusercontent.com/xiaoxin-ping/actions-youth/main/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true
 
 # 中青看点极速版自动阅读
-0 0 0-10/1 * * * https://raw.githubusercontent.com/akuticlouds/actions-youth/main/YOUTH_READ.js, tag=中青看点极速版自动阅读, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true
+0 0 0-10/1 * * * https://raw.githubusercontent.com/xiaoxin-ping/actions-youth/main/Youth_Read.js, tag=中青看点极速版自动阅读, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true
 
 
 Surge 4.0 :
